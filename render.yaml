@@ -3,7 +3,7 @@ services:
     name: ledo-sports-backend
     env: node
     buildCommand: cd backend && npm install
-    startCommand: npm start
+    startCommand: cd backend && npm start
     envVars:
       - key: MONGODB_URI
         sync: false
