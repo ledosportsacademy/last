@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/layout.tsx","./src/contexts/authcontext.tsx","./src/pages/admindashboard.tsx","./src/pages/adminlogin.tsx","./src/pages/analysis.tsx","./src/pages/donations.tsx","./src/pages/experiences.tsx","./src/pages/home.tsx","./src/pages/members.tsx"],"errors":true,"version":"5.8.3"}
